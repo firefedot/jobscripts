@@ -26,7 +26,7 @@ function errexit {
   else
     echo "||--------SUCCESS-----------||"
     echo "||=====Script=Complete======||"
-  fi
+  fighj
   echo "============================="
 }
 
